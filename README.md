@@ -1,2 +1,3 @@
--🎃 Oi, eu sou @irianepilasanchez ...🎃
+- 🎃 Oi, eu sou @irianepilasanchez ...🎃
 - 🎃 Estou interessado em aprender mais sobre programar ... 🎃
+- 🎃 Estou aprendendo recentemente a linguagem de Scratch ... 🎃
